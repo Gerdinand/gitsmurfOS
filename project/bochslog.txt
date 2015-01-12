@@ -30,60 +30,60 @@
 00000000000i[     ]   SB16 support: yes
 00000000000i[     ]   USB support: yes
 00000000000i[     ]   VGA extension support: vbe 
-00000000000i[MEM0 ] allocated memory at 0x7f4c574c8010. after alignment, vector=0x7f4c574c9000
+00000000000i[MEM0 ] allocated memory at 0x7fec48b26010. after alignment, vector=0x7fec48b27000
 00000000000i[MEM0 ] 32,00MB
 00000000000i[MEM0 ] mem block size = 0x00100000, blocks=32
 00000000000i[MEM0 ] rom at 0xfffe0000/131072 ('/usr/share/bochs/BIOS-bochs-latest')
 00000000000i[MEM0 ] rom at 0xc0000/41472 ('/usr/share/bochs/VGABIOS-lgpl-latest')
 00000000000i[VTIME] using 'realtime pit' synchronization method
-00000000000i[     ] lt_dlhandle is 0x3b2a590
+00000000000i[     ] lt_dlhandle is 0x381a560
 00000000000i[PLGIN] loaded plugin libbx_cmos.so
-00000000000i[     ] lt_dlhandle is 0x3b2afb0
+00000000000i[     ] lt_dlhandle is 0x381af80
 00000000000i[PLGIN] loaded plugin libbx_dma.so
-00000000000i[     ] lt_dlhandle is 0x3b2ba10
+00000000000i[     ] lt_dlhandle is 0x381b9e0
 00000000000i[PLGIN] loaded plugin libbx_pic.so
-00000000000i[     ] lt_dlhandle is 0x3b2c250
+00000000000i[     ] lt_dlhandle is 0x381c220
 00000000000i[PLGIN] loaded plugin libbx_pit.so
-00000000000i[     ] lt_dlhandle is 0x3b2cbc0
+00000000000i[     ] lt_dlhandle is 0x381cb90
 00000000000i[PLGIN] loaded plugin libbx_vga.so
-00000000000i[     ] lt_dlhandle is 0x3b2d320
+00000000000i[     ] lt_dlhandle is 0x381d2f0
 00000000000i[PLGIN] loaded plugin libbx_hdimage.so
-00000000000i[     ] lt_dlhandle is 0x3b2dc00
+00000000000i[     ] lt_dlhandle is 0x381dbd0
 00000000000i[PLGIN] loaded plugin libbx_floppy.so
-00000000000i[     ] lt_dlhandle is 0x3b2e7f0
+00000000000i[     ] lt_dlhandle is 0x381e7c0
 00000000000i[PLGIN] loaded plugin libbx_soundmod.so
-00000000000i[     ] lt_dlhandle is 0x3b2fef0
+00000000000i[     ] lt_dlhandle is 0x381fec0
 00000000000i[PLGIN] loaded plugin libbx_pci.so
-00000000000i[     ] lt_dlhandle is 0x3b30b20
+00000000000i[     ] lt_dlhandle is 0x3820af0
 00000000000i[PLGIN] loaded plugin libbx_pci2isa.so
-00000000000i[     ] lt_dlhandle is 0x3b31400
+00000000000i[     ] lt_dlhandle is 0x38213d0
 00000000000i[PLGIN] loaded plugin libbx_usb_common.so
-00000000000i[     ] lt_dlhandle is 0x3b31ca0
+00000000000i[     ] lt_dlhandle is 0x3821c70
 00000000000i[PLGIN] loaded plugin libbx_unmapped.so
-00000000000i[     ] lt_dlhandle is 0x3b32520
+00000000000i[     ] lt_dlhandle is 0x38224f0
 00000000000i[PLGIN] loaded plugin libbx_biosdev.so
-00000000000i[     ] lt_dlhandle is 0x3b32ef0
+00000000000i[     ] lt_dlhandle is 0x3822ec0
 00000000000i[PLGIN] loaded plugin libbx_speaker.so
-00000000000i[     ] lt_dlhandle is 0x3b33680
+00000000000i[     ] lt_dlhandle is 0x3823650
 00000000000i[PLGIN] loaded plugin libbx_extfpuirq.so
-00000000000i[     ] lt_dlhandle is 0x3b33f00
+00000000000i[     ] lt_dlhandle is 0x3823ed0
 00000000000i[PLGIN] loaded plugin libbx_gameport.so
-00000000000i[     ] lt_dlhandle is 0x3b34890
+00000000000i[     ] lt_dlhandle is 0x3824860
 00000000000i[PLGIN] loaded plugin libbx_pci_ide.so
-00000000000i[     ] lt_dlhandle is 0x3b35270
+00000000000i[     ] lt_dlhandle is 0x3825240
 00000000000i[PLGIN] loaded plugin libbx_acpi.so
-00000000000i[     ] lt_dlhandle is 0x3b35bb0
+00000000000i[     ] lt_dlhandle is 0x3825b80
 00000000000i[PLGIN] loaded plugin libbx_ioapic.so
-00000000000i[     ] lt_dlhandle is 0x3b36560
+00000000000i[     ] lt_dlhandle is 0x3826530
 00000000000i[PLGIN] loaded plugin libbx_keyboard.so
-00000000000i[     ] lt_dlhandle is 0x3b36d70
+00000000000i[     ] lt_dlhandle is 0x3826d40
 00000000000i[PLGIN] loaded plugin libbx_harddrv.so
-00000000000i[     ] lt_dlhandle is 0x3b48e50
+00000000000i[     ] lt_dlhandle is 0x3838e20
 00000000000i[PLGIN] loaded plugin libbx_serial.so
-00000000000i[     ] lt_dlhandle is 0x3b49cd0
+00000000000i[     ] lt_dlhandle is 0x3839ca0
 00000000000i[PLGIN] loaded plugin libbx_parallel.so
 00000000000i[CMOS ] Using local time for initial clock
-00000000000i[CMOS ] Setting initial clock to: Mon Jan 12 09:32:54 2015 (time0=1421051574)
+00000000000i[CMOS ] Setting initial clock to: Mon Jan 12 09:43:00 2015 (time0=1421052180)
 00000000000i[DMA  ] channel 4 used by cascade
 00000000000i[DMA  ] channel 2 used by Floppy Drive
 00000000000i[PCI  ] 440FX Host bridge present at device 0, function 0
